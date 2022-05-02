@@ -1,14 +1,11 @@
 # Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+David+Zaw!;I'm+a+learning+developer...;I'm+a+CRAZY+in+coding;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm David Zaw</h1>
 <h3 align="center">Full stack web developer with primary focus on laravel + vuejs</h3>
 
-- 👨‍💻 All of my projects are available at [www.davidzaw001.com](www.davidzaw001.com)
-
-- 📝 I regularly write articles on [www.davidzaw001.com/blogs](www.davidzaw001.com/blogs)
 
 - 💬 Ask me about **Laravel, Vuejs**
 
